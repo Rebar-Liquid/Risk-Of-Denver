@@ -1,0 +1,6 @@
+{
+	"strings": {
+		"EARLY_ACCESS_DISCLAIMER": "Thank you 2 for the war!\n\nRemember rore 2 what you work in the morning! You can lose or delete.\n\nCompaolsbmmmmmmmmmmmmms related news. You can participate in text and series.\n\nLook at the floor.\n\n<i>- Juice</i>",
+		"EARLY_ACCESS_LORE": "<style=cMono>\nWelcome to Datavashst (V3.53 Beta -vale)\n$ ... not good.\nChoose $ ...\nTelephone file ...\nIt's not great!\nBelow\n</style>\n\nThere is no news. Try.\n"
+	}
+}

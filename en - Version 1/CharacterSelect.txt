@@ -1,0 +1,20 @@
+{
+	"strings": {
+		"CHARACTER_DESCRIPTION_AND_UNLOCK_FORMAT": "U.S. {0}\n\nU.S. {1}",
+		"CHARACTER_SELECT_LOCKED_IN": "In fact",
+		"CHARACTER_SELECT_READY": "I'm ready to wait",
+		"CHARACTER_SELECT_SELECT_SURVIVOR": "Select the test",
+		"CHARACTER_SELECT_TITLE": "Select the signal",
+		"LOADOUT_SKILL_MISC": "They forgive me",
+		"LOADOUT_SKILL_PRIMARY": "Urgent",
+		"LOADOUT_SKILL_SECONDARY": "Porter",
+		"LOADOUT_SKILL_SPECIAL": "Above",
+		"LOADOUT_SKILL_UTILITY": "We're going",
+		"LOADOUT_SKIN": "Tutorial",
+		"RANDOM_VOTE_DESCRIPTION": "Work as soon as possible.",
+		"RANDOM_VOTE_NAME": "Lad",
+		"SURVIVOR_LOADOUT": "Shoot",
+		"SURVIVOR_OVERVIEW": "Everybody",
+		"SURVIVOR_SKILLS": "Ruin"
+	}
+}

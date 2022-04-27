@@ -1,0 +1,21 @@
+{
+	"strings": {
+		"KEYWORD_ACTIVERELOAD": "<style=cKeywordName>Everything is on the market</style><style=cSub>Iced. All taxes will increase 500% in the future.",
+		"KEYWORD_AGILE": "<style=cKeywordName>Save century</style><style=cSub>You can use sprint.</style>",
+		"KEYWORD_EXPOSE": "<style=cKeywordName>Breathe and shine</style><style=cSub>The enemy likes 1.0 skills and Gate + <style=cIsDamage>+350%</style>.",
+		"KEYWORD_FREEZING": "<style=cKeywordName>Concern</style><style=cSub>Change the enemy. If less than 30% of the strongest enemy, he immediately died.</style>",
+		"KEYWORD_HEAVY": "<style=cKeywordName>Difficulty</style><style=cSub>If the disease disappears.</style>",
+		"KEYWORD_IGNITE": "<style=cKeywordName>Transform</style><style=cSub>The final value is <style=cIsDamage>50%</style>.",
+		"KEYWORD_PERCENT_HP": "<style=cKeywordName>X% You are a wonderful person</style><style=cSub>Your true health costs.</style>",
+		"KEYWORD_POISON": "<style=cKeywordName>Consultation</style><style=cSub>10% to 10%. SM did not kill the enemy.</i></style>",
+		"KEYWORD_RAPID_REGEN": "<style=cKeywordName>Left</style><style=cSub>Word security is 5% greater.</style>",
+		"KEYWORD_SHOCKING": "<style=cKeywordName>Fan-</style><style=cSub>The enemy is harassed. If the target exceeds 10% of the service",
+		"KEYWORD_SLAYER": "<style=cKeywordName>Stone exceeded</style><style=cSub>3. Medical agreement is not enough.</style>",
+		"KEYWORD_SONIC_BOOM": "<style=cKeywordName>Precarious</style><style=cSub>For all your enemies. Click for a while.</style>",
+		"KEYWORD_STUNNING": "<style=cKeywordName>Consecutive</style><style=cSub>Enemies and oil.",
+		"KEYWORD_SUPERBLEED": "<style=cKeywordName>Velocity</style><style=cSub><style=cIsDamage>2000%</style> exceeded 15%. You can choose blood.</style>",
+		"KEYWORD_VOIDCORRUPTION": "<style=cKeywordName>Prince</style><style=cSub>Wounds, serious attacks or necessary pieces. Reduce corruption of health systems.",
+		"KEYWORD_WEAK": "<style=cKeywordName>To go\n</style><style=cSub>40% quickly and damaged. Reduce blindness 20.</style>",
+		"KEYWORD_WEAKPOINT": "<style=cKeywordName>Ventilation</style><style=cSub>Some enemies are hurt. If you play a small school, you can attack.</style>"
+	}
+}

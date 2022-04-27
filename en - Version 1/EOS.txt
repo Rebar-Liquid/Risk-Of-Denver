@@ -1,0 +1,22 @@
+{
+	"strings": {
+		"EOS_CANNOT_JOIN_STEAM_LOBBY_HEADER": "I can't fix the place",
+		"EOS_CANNOT_JOIN_STEAM_LOBBY_MESSAGE": "The machine cannot be accepted. This option can be used for \"site\" menu.",
+		"EOS_DEACTIVATE_CROSSPLAY_RESTART": "In the area",
+		"EOS_INVALID_LOBBY_CROSSPLAY_GO_TO_SETTINGS": "On the map",
+		"EOS_INVALID_LOBBY_NO_CROSSPLAY_DESCRIPTION": "No ball is not necessary. Do not use the door (the course is necessary)",
+		"EOS_INVALID_LOBBY_REQUIRES_CROSSPLAY_DESCRIPTION": "Do you want to fight? Leave a horizontal position on the side (compulsory text).\n",
+		"EOS_LINK_ACCOUNT": "Change beautiful reproductive password",
+		"EOS_LINK_ACCOUNT_DESCRIPTION": "If you add or create a better accident, you will call your friends if you make or create.",
+		"EOS_NOT_LINKED_MESSAGE": "The game building is not connected",
+		"EOS_NOT_LINKED_TITLE": "The game building is not connected",
+		"EOS_RETRY_LOGIN": "Age",
+		"EOS_SERVER_BROWSER_INFO": "Only toys.",
+		"EOS_TOGGLE_CLOSE_LATER": "World Health Organization",
+		"EOS_TOGGLE_CLOSE_NOW": "Show.",
+		"EOS_TOGGLE_CROSSPLAY_DESCRIPTION": "Note: Repairing is incorrectly allocated.\n\nPlay users to play the best game. -Nan system has compiled the first password.\n\nFind Christmas to help you.\n\nYou can only find the professional interference of your partner, which do not need to break the door.",
+		"EOS_TOGGLE_POPUP_MESSAGE": "The game is difficult. Click [Now] to prevent the game or spread the game. Below",
+		"EOS_TOGGLE_POPUP_TITLE": "Prevent or spread the game",
+		"OPTION_EOS_LINK_ACCOUNT": "Mix a good game in the game"
+	}
+}

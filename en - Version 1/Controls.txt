@@ -1,0 +1,25 @@
+{
+	"strings": {
+		"ACTION_AIM_HORIZONTAL_MOUSE": "Joyous",
+		"ACTION_AIM_HORIZONTAL_STICK": "Joyous",
+		"ACTION_AIM_VERTICAL_MOUSE": "As long as they are",
+		"ACTION_AIM_VERTICAL_STICK": "As long as they are",
+		"ACTION_EQUIPMENT": "These groups are accepted",
+		"ACTION_INFO": "-Pligi",
+		"ACTION_INTERACT": "Approach",
+		"ACTION_MOVE_HORIZONTAL": "Joyous",
+		"ACTION_MOVE_HORIZONTAL_NEGATIVE": "I love it",
+		"ACTION_MOVE_HORIZONTAL_POSITIVE": "Age",
+		"ACTION_MOVE_VERTICAL": "As long as they are",
+		"ACTION_MOVE_VERTICAL_NEGATIVE": "Age",
+		"ACTION_MOVE_VERTICAL_POSITIVE": "Continue",
+		"ACTION_PING": "Worn",
+		"ACTION_PRIMARY_SKILL": "Light",
+		"ACTION_SECONDARY_SKILL": "Porter",
+		"ACTION_SPECIAL_SKILL": "Excitement",
+		"ACTION_SPRINT": "To go",
+		"ACTION_UTILITY_SKILL": "Joyous",
+		"INPUT_GAMEPAD_UNBOUND": "[Any president]",
+		"INPUT_KEYBOARD_UNBOUND": "[I care about KB / m]"
+	}
+}

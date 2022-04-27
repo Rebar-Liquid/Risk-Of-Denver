@@ -1,0 +1,25 @@
+{
+	"strings": {
+		"HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER": "It looks like the main server",
+		"HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER_DESCRIPTION": "This game is played on another server.",
+		"HOSTGAMEPANEL_ALLOW_RULE_VOTING": "Palele is allowed",
+		"HOSTGAMEPANEL_ALLOW_RULE_VOTING_DESCRIPTION": "It is an optimal description and smoking for players.",
+		"HOSTGAMEPANEL_CUSTOM_TAGS": "A topic",
+		"HOSTGAMEPANEL_CUSTOM_TAGS_DESCRIPTION": "Another game. It can be a filter process.",
+		"HOSTGAMEPANEL_DEFAULT_SERVER_NAME_FORMAT": "I asked {0} a",
+		"HOSTGAMEPANEL_HEADER_SERVER_SETTINGS": "Continue",
+		"HOSTGAMEPANEL_HOST": "They start playing",
+		"HOSTGAMEPANEL_LOBBY_TYPE": "Width",
+		"HOSTGAMEPANEL_LOBBY_TYPE_DESCRIPTION": "Only students, staff, stick or friends.\n\nOther users should have gross income.",
+		"HOSTGAMEPANEL_MAX_PLAYERS": "Good evening",
+		"HOSTGAMEPANEL_MAX_PLAYERS_DESCRIPTION": "Most players can participate in the game.",
+		"HOSTGAMEPANEL_MAX_PLAYERS_TOO_MANY_SLOTS_WARNING": "The risk of rain is at risk of providing four players. Allow the confirmation performance.",
+		"HOSTGAMEPANEL_OPTION_GAME_MODE": "Age",
+		"HOSTGAMEPANEL_OPTION_GAME_MODE_DESCRIPTION": "The game on the journey you want to play.",
+		"HOSTGAMEPANEL_OPTION_PASSWORD": "Jump",
+		"HOSTGAMEPANEL_OPTION_PASSWORD_DESCRIPTION": "Other sports methods. The password does not match this game.",
+		"HOSTGAMEPANEL_OPTION_SERVER_NAME": "I the 4: good",
+		"HOSTGAMEPANEL_OPTION_SERVER_NAME_DESCRIPTION": "Game By name.",
+		"HOSTGAMEPANEL_TITLE": "More players to make games"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"strings": {
+		"LOGBOOK": "None",
+		"LOGBOOK_CATEGORY_ACHIEVEMENTS": "About the question about thinking",
+		"LOGBOOK_CATEGORY_EQUIPMENT": "Aid",
+		"LOGBOOK_CATEGORY_FRAGMENT": "Bad smell",
+		"LOGBOOK_CATEGORY_ITEM": "Quantity",
+		"LOGBOOK_CATEGORY_ITEMANDEQUIPMENT": "Health and training",
+		"LOGBOOK_CATEGORY_MONSTER": "Stand",
+		"LOGBOOK_CATEGORY_MORGUE": "Shared",
+		"LOGBOOK_CATEGORY_STAGE": "Robkog",
+		"LOGBOOK_CATEGORY_STATS": "Information statistics",
+		"LOGBOOK_CATEGORY_SURVIVOR": "Method",
+		"LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_BODY_FORMAT": "<nobr>Family: {0}</nobr>\n<nobr>Joe: {1}</nobr>\n<nobr>Band Level: {2}</nobr>",
+		"LOGBOOK_PAN": "Offering",
+		"LOGBOOK_ROTATE": "Driving",
+		"LOGBOOK_UNLOCK_ITEM_FRAGMENT": "The information is not clear.",
+		"LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_TITLE_FORMAT": "{0}",
+		"LOGBOOK_HOVER_DESCRIPTION_FORMAT" : "<mark=#{2}><b>[ {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
+		"LOGBOOK_UNLOCK_ITEM_LOG": "Find the product to open it.",
+		"LOGBOOK_UNLOCK_ITEM_MONSTER": "Open the method and open information.",
+		"LOGBOOK_UNLOCK_ITEM_STAGE": "Find A Radar Tourner, return and open the message.",
+		"LOGBOOK_UNLOCK_ITEM_SURVIVOR": "\nJoin the game and live at the end of the city.",
+		"LOGBOOK_ZOOMINOUT": "Street"
+	}
+}

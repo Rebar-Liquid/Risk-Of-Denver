@@ -1,0 +1,16 @@
+{
+	"strings": {
+		"AMBIENT_LEVEL_DISPLAY_FORMAT": "<style=cSub>Random</style> {0}",
+		"DIFFICULTY_BAR_0": "Stand",
+		"DIFFICULTY_BAR_1": "Never",
+		"DIFFICULTY_BAR_2": "Superiority",
+		"DIFFICULTY_BAR_3": "Portal",
+		"DIFFICULTY_BAR_4": "It is very difficult",
+		"DIFFICULTY_BAR_5": "Standard",
+		"DIFFICULTY_BAR_6": "They did not say",
+		"DIFFICULTY_BAR_7": "Before",
+		"DIFFICULTY_BAR_8": "I came to you",
+		"DIFFICULTY_BAR_9": "Breathe and shine",
+		"STAGE_COUNT_FORMAT": "<style=cSub>His</style> {0}"
+	}
+}

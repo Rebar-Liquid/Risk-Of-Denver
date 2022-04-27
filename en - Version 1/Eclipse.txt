@@ -1,0 +1,23 @@
+{
+	"strings": {
+		"ECLIPSE_1_DESCRIPTION": "For example, start.<style=cSub>\n\n<mspace=0.5em>1)</mspace> sound with grass: -50%</style>",
+		"ECLIPSE_1_NAME": "Love (1)",
+		"ECLIPSE_2_DESCRIPTION": "For example, start.<style=cSub>\n\n<mspace=0.5em>1)</mspace> sound with grass: -50%\n<mspace=0.5em>2)</mspace> EE. Uu: -50%</style>",
+		"ECLIPSE_2_NAME": "Food (2)",
+		"ECLIPSE_3_DESCRIPTION": "For example, start.<style=cSub>\n\n<mspace=0.5em>1)</mspace> sound with grass: -50%\n<mspace=0.5em>2)</mspace> EE. Uu: -50%\n<mspace=0.5em>(3)</mspace> best damage: + 100% and danger</style>",
+		"ECLIPSE_3_NAME": "Posts (3)",
+		"ECLIPSE_4_DESCRIPTION": "For example, start.<style=cSub>\n\n<mspace=0.5em>1)</mspace> sound with grass: -50%\n<mspace=0.5em>2)</mspace> EE. Uu: -50%\n<mspace=0.5em>(3)</mspace> best damage: + 100% and danger\n<mspace=0.5em>(4)</mspace> preferential enemy: 60%</style>",
+		"ECLIPSE_4_NAME": "Eessen (4)",
+		"ECLIPSE_5_DESCRIPTION": "For example, start.<style=cSub>\n\n<mspace=0.5em>1)</mspace> sound with grass: -50%\n<mspace=0.5em>2)</mspace> EE. Uu: -50%\n<mspace=0.5em>(3)</mspace> best damage: + 100% and danger\n<mspace=0.5em>(4)</mspace> preferential enemy: 60%\n<mspace=0.5em>(5)</mspace> State brother: -50%</style>",
+		"ECLIPSE_5_NAME": "Posts (5)",
+		"ECLIPSE_6_DESCRIPTION": "For example, start.<style=cSub>\n\n<mspace=0.5em>1)</mspace> sound with grass: -50%\n<mspace=0.5em>2)</mspace> EE. Uu: -50%\n<mspace=0.5em>(3)</mspace> best damage: + 100% and danger\n<mspace=0.5em>(4)</mspace> preferential enemy: 60%\n<mspace=0.5em>(5)</mspace> State brother: -50%\n<mspace=0.5em>(4)</mspace> the enemy of gold</style>",
+		"ECLIPSE_6_NAME": "Messages (6)",
+		"ECLIPSE_7_DESCRIPTION": "For example, start.<style=cSub>\n\n<mspace=0.5em>1)</mspace> sound with grass: -50%\n<mspace=0.5em>2)</mspace> EE. Uu: -50%\n<mspace=0.5em>(3)</mspace> best damage: + 100% and danger\n<mspace=0.5em>(4)</mspace> preferential enemy: 60%\n<mspace=0.5em>(5)</mspace> State brother: -50%\n<mspace=0.5em>(4)</mspace> the enemy of gold\n<mspace=0.5em>()</mspace> Pinnezin Maintenance: -50%</style>",
+		"ECLIPSE_7_NAME": "Posts (7)",
+		"ECLIPSE_8_DESCRIPTION": "For example, start.<style=cSub>\n\n<mspace=0.5em>1)</mspace> sound with grass: -50%\n<mspace=0.5em>2)</mspace> EE. Uu: -50%\n<mspace=0.5em>(3)</mspace> best damage: + 100% and danger\n<mspace=0.5em>(4)</mspace> preferential enemy: 60%\n<mspace=0.5em>(5)</mspace> State brother: -50%\n<mspace=0.5em>(4)</mspace> the enemy of gold\n<mspace=0.5em>()</mspace> Pinnezin Maintenance: -50%\n<mspace=0.5em>()</mspace> Friends are <style=cIsHealth>always hurt</style></style>",
+		"ECLIPSE_8_NAME": "Messages (8)",
+		"ECLIPSE_GAMEMODE_DESCRIPTION": "An additional <style=cIsUtility>eclipse</style> group.\n\nIf the game is <style=cIsUtility>8</style> times higher on flexible days.",
+		"ECLIPSE_GAMEMODE_NAME": "The project is not part of",
+		"ECLIPSE_GAMEMODE_START": "Experiment"
+	}
+}

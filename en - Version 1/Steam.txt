@@ -1,0 +1,26 @@
+{
+	"strings": {
+		"STEAM_COPY_LOBBY": "Check the pressure in the table",
+		"STEAM_COPY_LOBBY_TO_CLIPBOARD_MESSAGE": "Copying in the room begins.",
+		"STEAM_COPY_LOBBY_TO_CLIPBOARD_TOOLTIP_BODY": "Copy the entrance to the right door.",
+		"STEAM_JOIN_LOBBY_CLIPBOARD_FAIL": "Hall -Cag.",
+		"STEAM_JOIN_LOBBY_CLIPBOARD_SUCCESS": " This is the northern house.",
+		"STEAM_JOIN_LOBBY_ON_CLIPBOARD": "Gusny number",
+		"STEAM_LOBBY_FRIENDSONLY": "I expect school",
+		"STEAM_LOBBY_INVISIBLE": "Sentry",
+		"STEAM_LOBBY_PRIVATE": "Private.",
+		"STEAM_LOBBY_PUBLIC": "Market",
+		"STEAM_LOBBY_STATUS_CONNECTING_TO_HOST": "God's name ...",
+		"STEAM_LOBBY_STATUS_GAME_STARTING": "Simple game ...",
+		"STEAM_LOBBY_STATUS_LAUNCHING_QUICKPLAY": "Contact quickly with the game ...",
+		"STEAM_LOBBY_STATUS_NOT_IN_LOBBY": "Any",
+		"STEAM_LOBBY_STATUS_OUT_OF_QUICKPLAY": "This is not sharp.",
+		"STEAM_LOBBY_STATUS_QUICKPLAY_SEARCHING_FOR_EXISTING_LOBBY": "Find a job and search ...",
+		"STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_ABOVE_MINIMUM_PLAYERS": "{0}/{1} Door. We started with: {2}",
+		"STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_BELOW_MINIMUM_PLAYERS": "{0}/{1} Door. I am looking for more games ...",
+		"STEAM_LOBBY_STATUS_STARTING_SERVER": "The server starts ...",
+		"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION": "The pieces are not available. The owner is more or less compared to the game version.\nYours={0}\nTheirs={1}",
+		"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_TITLE": "-A version",
+		"STEAM_PROMOTE_OWNER_TOOLTIP_BODY": "To talk"
+	}
+}

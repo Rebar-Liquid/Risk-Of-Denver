@@ -1,0 +1,21 @@
+{
+	"strings": {
+		"TOOLTIP_EQUIPMENT": "The group is a strong and positive work.",
+		"TOOLTIP_SPRINT": "Run water on the map?",
+		"TOOLTIP_TIME_DIFFICULTY": "Time, time, time, time and time?",
+		"TOOLTIP_UNLOCK_ARTIFACT_DESCRIPTION": "This is all.",
+		"TOOLTIP_UNLOCK_ARTIFACT_NAME": "Protect yourself",
+		"TOOLTIP_UNLOCK_EQUIPMENT_DESCRIPTION": "Everything started.",
+		"TOOLTIP_UNLOCK_EQUIPMENT_NAME": "-A and",
+		"TOOLTIP_UNLOCK_GENERIC_DESCRIPTION": "Now you can use this device.",
+		"TOOLTIP_UNLOCK_GENERIC_NAME": " -Go-Khika",
+		"TOOLTIP_UNLOCK_ITEM_DESCRIPTION": "This is done with an error.",
+		"TOOLTIP_UNLOCK_ITEM_NAME": "-Mo Insapotico",
+		"TOOLTIP_UNLOCK_LOG_DESCRIPTION": "The product is displayed in the name.",
+		"TOOLTIP_UNLOCK_LOG_NAME": "Enter Termbeterance",
+		"TOOLTIP_UNLOCK_SURVIVOR_DESCRIPTION": "K. Basket",
+		"TOOLTIP_UNLOCK_SURVIVOR_NAME": "Don't close it",
+		"TOOLTIP_WIP_CONTENT_DESCRIPTION": "This article is normal. And that!",
+		"TOOLTIP_WIP_CONTENT_NAME": "Velocity"
+	}
+}
